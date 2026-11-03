@@ -1,0 +1,154 @@
+ABEL NEGASH — SUMMER 2027 INTERNSHIP SHORTLIST
+Research date: October 27, 2026
+
+PURPOSE: A one-time application-link shortlist, not a submission record or a scheduled task. No applications were submitted in producing it. Check for newer receipts or user submissions before applying. Known submitted exact roles were excluded using the available application workbook; that is not a guarantee the history is exhaustive.
+
+PROFILE: Emory B.S. Data Science, Economics track; expected May 2029. Python/pandas, SQL, Excel, Power BI, Git/GitHub, healthcare-data projects, SAS Viya credit-risk modeling. Prior Georgia State GPA 4.00 is NOT an Emory GPA. Current Emory GPA/transfer GPA treatment remains unresolved.
+
+VERIFICATION KEY
+LIVE: Employer description and application route were readable during this check. Availability can still change.
+INDEXED: An official employer description was retrieved through search, but the live page/form did not fully render or blocked access. Recheck current availability before tailoring or applying. Do not represent these as confirmed live applications.
+Dates absent below were not reliably stated. Never treat a search-index date as a posting date.
+
+FIRST CHOICES: Guardian; Highmark; Erie Intern II (Data); Arch; Delta Dental. This order reflects fit and eligibility, not location preference. GPA requirements remain conditional until documented.
+
+1. GUARDIAN — 2027 Guardian Summer Intern, Digital & Technology – Data Engineering
+Requisition: R000110202
+Verification: INDEXED
+Locations: New York, NY; Bethlehem, PA; Holmdel, NJ.
+Eligibility: Explicitly accepts current sophomores graduating May 2029. Python and SQL exposure; databases/data-processing fundamentals. Cloud tooling is preferred, not a blanket requirement.
+Work: Data pipelines; data products for analytics/ML; validation, monitoring and testing.
+Dates: May 27–August 6, 2027.
+Deadline: November 13, 2026, 11:59 p.m. Eastern, or earlier if filled.
+Fit: Strong match for the healthcare ETL project, SQL/Python and data-quality work.
+Official application: https://guardianlife.wd5.myworkdayjobs.com/en-US/Guardian-Life-Careers/job/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202
+
+2. HIGHMARK — Summer 2027 Data Analyst Undergraduate Intern
+Requisition: J288017
+Verification: LIVE
+Location: Pittsburgh, PA. Listing is labeled part time; confirm weekly hours and work arrangement.
+Eligibility: Enrolled bachelor's student; Data Science preferred. No graduation window or minimum GPA stated.
+Work: Healthcare analytics, pipelines, transformation/integration, data-quality checks and enterprise reporting.
+Posted: October 23, 2026. Deadline: Not stated.
+Fit: Particularly close match to healthcare-data cleaning and ETL projects.
+Official application: https://careers.highmarkhealth.org/summer-2027-data-analyst-undergraduate-intern/job/P1-7076373-0
+
+3. ERIE INSURANCE — Intern II (Data)
+Verification: LIVE
+Location: Erie, PA; corporate office.
+Eligibility: Completing sophomore year or later; graduation spring 2027–spring 2029. 3.0 GPA highly preferred, not stated as a hard minimum.
+Work: Data preparation, ad hoc/recurring reports, analysis of products and services.
+Dates: May 17 or May 24–August 6, 2027.
+Posted: October 20, 2026. Deadline: Not stated.
+Fit: Strong practical analytics option with compatible class-year requirements.
+Official application: https://jobs.erieinsurance.com/job/Erie-Intern-II-%28Data%29-PA-16506/1432176200/
+
+4. ARCH CAPITAL — Data and Analytics Intern
+Requisition: R26_845
+Verification: INDEXED
+Location: Farmington, CT; hybrid, four onsite days weekly.
+Eligibility: December 2027–May 2029 graduation; minimum 3.0 GPA. SQL required; Python/Spark preferred.
+Work: ETL and pipelines, validation/profiling/cleansing, Power BI dashboards.
+Dates: June 2–July 23, 2027. Deadline: Until filled.
+Fit: Direct overlap with Python/SQL, Power BI and data-quality projects. GPA treatment must be resolved.
+Official application: https://archgroup.wd1.myworkdayjobs.com/en-US/Careers/job/Data-and-Analytics-Intern_R26_845
+
+5. DELTA DENTAL OF IOWA — Data Analysis Intern – Summer 2027 (Insure Your Future)
+Posting ID: 4491829
+Verification: LIVE
+Location: Johnston, IA; onsite, full time.
+Eligibility: Specifically freshmen/sophomores in analytics, risk, statistics or related fields; 3.0 GPA verified by transcript. Intermediate Excel; Python/R familiarity preferred.
+Work: Underwriting/actuarial data analysis, risk and premium-pricing exposure, data queries and presenting findings.
+Start: May 19, 2027. Deadline: Not stated.
+Fit: Strong healthcare, economics, risk and analytics combination. GPA treatment remains unresolved.
+Official application: https://recruiting.paylocity.com/recruiting/jobs/Details/4491829/Delta-Dental-of-Iowa/Data-Analysis-Intern---Summer-2027-Insure-Your-Future
+
+6. GENERAL MOTORS — 2027 Summer Intern – IndyCar Race Strategy & Analytics
+Requisition: JR-202619990
+Verification: INDEXED
+Location: Concord, NC; hybrid, minimum three onsite days weekly.
+Eligibility: Data Science explicitly accepted; December 2027–May 2029 graduation; full-time summer availability.
+Work: Race/telemetry data cleaning and validation; back-testing and scenario analysis; model evaluation, dashboards and software/data-pipeline testing.
+Starts: May 24 or June 14, 2027. Deadline: Not stated.
+Fit: Python, SQL, Git and model-validation overlap. Motorsports/simulation knowledge would be a learning gap, not a listed hard gate.
+Official application: https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---IndyCar-Race-Strategy---Analytics_JR-202619990
+
+7. INTERCONTINENTAL EXCHANGE (ICE) — Summer Internship Program 2027 – Audit Analytics Intern
+Requisition: 14069
+Verification: INDEXED; live page blocked automated access.
+Location: Atlanta, GA; onsite.
+Eligibility: At least advancing junior standing; confirm this means rising junior by the internship start.
+Work: Data extraction/transformation/visualization, risk-indicator dashboards, anomaly/trend/control-gap analysis.
+Dates: May 24–August 6 or June 7–August 20, 2027. Deadline: Not stated.
+Fit: Strong use of SQL/Python, BI and risk-analysis interests.
+Official application: https://careers.ice.com/jobs/14069?lang=en-us
+
+8. DOW JONES — Summer 2027 Internship Program – Data Analyst Intern
+Requisition: Job_Req_55893
+Verification: INDEXED
+Location: New York, NY; description says hybrid but program requires full-time in-office availability. Clarify exact attendance. Ignore contradictory part-time header when answering availability.
+Eligibility: December 2027–July 2029 graduation. Requires at least two years of bachelor's study; clarify whether measured at application or start. Quantitative fields including Economics accepted.
+Work: Reports/dashboards, customer/product usage analysis, data pipelines and quantitative analysis. SQL/Python and strong Excel.
+Dates: June 7–August 13, 2027. Deadline: November 13, 2026; rolling review.
+Fit: Strong practical analytics match; two-year timing requirement remains a factual question.
+Official application: https://dowjones.wd1.myworkdayjobs.com/dow_jones_career/job/nyc---1211-ave-of-the-americas/summer-2027-internship-program---data-analyst-intern_job_req_55893
+
+9. FEDEX — Data Science Intern (Summer 2027) – Memphis, TN
+Requisition: P25-389643-1
+Verification: LIVE
+Location: Memphis, TN; onsite.
+Eligibility: Current student in a quantitative/related field; minimum 3.0 GPA.
+Work: Aircraft Maintenance Operational Control analytics; data organization/analysis/optimization and AI/ML solutions.
+Dates: June 7–August 13, 2027; 40 hours weekly. Deadline: Not stated.
+Fit: Relevant applied modeling/operations opportunity. GPA treatment unresolved.
+Carryover: Previously surfaced October 23. Not recorded as submitted in the workbook reviewed; reconcile any later submission before applying.
+Official application: https://careers.fedex.com/data-science-intern-summer-2027-memphis-tn/job/P25-389643-1
+
+10. DOW JONES — Summer 2027 Internship Program – Marketing Data Science Intern
+Requisition: Job_Req_55876
+Verification: INDEXED
+Location: New York, NY; hybrid description with full-time in-office program availability. Clarify attendance.
+Eligibility: December 2027–July 2029 graduation; at least two years of quantitative bachelor's study. Confirm whether the two-year requirement is measured by internship start.
+Work: Churn/lifetime-value/propensity modeling, model training/validation, marketing attribution and customer behavior analysis.
+Dates: June 7–August 13, 2027. Deadline: November 13, 2026; rolling review.
+Fit: SAS credit-risk model comparison and validation transfer well. Marketing platforms and Tableau/Looker are gaps; do not claim them without evidence.
+Official application: https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Summer-2027-Internship-Program---Marketing-Data-Science-Intern_Job_Req_55876
+
+11. INTERCONTINENTAL EXCHANGE (ICE) — Summer Internship Program 2027 – Data Science Intern
+Requisition: 14113
+Verification: INDEXED; live page blocked automated access.
+Location: New York, NY; onsite.
+Eligibility: At least advancing junior standing; confirm rising-junior interpretation. Deep Python and SQL skills requested.
+Work: Financial/market datasets, quantitative models, statistical/ML analysis supporting pricing and market behavior.
+Dates: May 24–August 6 or June 7–August 20, 2027. Deadline: Not stated.
+Fit: Competitive technical reach. Prioritize Audit Analytics first if time is limited.
+Official application: https://careers.ice.com/jobs/14113?lang=en-us
+
+12. ERIE INSURANCE — Actuarial Intern (Data Science)
+Verification: LIVE
+Location: Erie, PA; corporate office.
+Eligibility: Completed sophomore year in actuarial science, mathematics, statistics, econometrics or related field; 3.0 GPA required. First actuarial exam preferred, not required. Confirm related-field acceptance if asked.
+Work: Detailed insurance/profitability/rating analysis, forecasts, exhibits, data extraction and accuracy checks.
+Dates: May 17 or May 24–August 6, 2027.
+Posted: October 17, 2026. Deadline: Not stated.
+Fit: Worthwhile quantitative stretch; economics and SAS work are relevant, but actuarial coursework/exams are not established.
+Official application: https://jobs.erieinsurance.com/job/Erie-Actuarial-Intern-%28Data-Science%29-PA-16530/1431558100/
+
+13. LAWRENCE LIVERMORE NATIONAL LABORATORY — Data Science Institute Undergraduate Student Intern – Summer 2027
+Posting ID: 3743990015289136
+Verification: LIVE
+Location: Livermore, CA; assignment-dependent hybrid possibility.
+Eligibility: Continuing undergraduate in Data Science/related STEM; age 18+; GPA 3.0+. No US citizenship or clearance blanket requirement stated, BUT lab-access/NDAA eligibility remains mandatory and unconfirmed for Abel. Do not infer citizenship or legal status.
+Work: Scientific research support, data analysis, research evaluation and presentations/team challenge.
+Preferred cohort: May 17–August 6, 2027. The June 21–September 10 cohort may conflict with Emory's fall term.
+Deadline: January 15, 2027.
+Fit: Competitive research option, conditional on GPA and lab-access eligibility.
+Official application: https://jobs.smartrecruiters.com/LLNL/3743990015289136-data-science-institute-undergraduate-student-intern-summer-2027
+
+IMPORTANT
+- Do not report GSU's 4.00 as an Emory GPA. Use truthful institution-specific data and ask employers how they assess transfers when needed.
+- No listed graduation restriction does not prove eligibility.
+- An indexed official listing does not prove the application is still open.
+- Do not duplicate already submitted roles. RV Tech, MEMX, Cytiva, Philips, UPS, Itron People Analytics and BCBS Nebraska are among the recent submitted entries excluded from this list.
+- Amplify's previous outcome is unconfirmed; it is not included as a new/retry application.
+- This file does not modify any existing task, resume, or canonical tracker.
